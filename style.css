@@ -4,4 +4,35 @@ body {
 #titulo {
     font-size: 70px;
     text-align: center;
-    color: blueviolet;
+    color: rgb(157, 16, 223);
+
+
+}
+header {
+    padding: 20px;
+    background-color: black;
+    border: 5px solid;
+    font-size: 35px;
+    color: black;
+}
+
+.texto {
+    font-size: 50px;
+    text-align: justify;
+    color: rgb(20,18,18),0,0);
+
+}
+.listas1 {
+    font-size: 50px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.listas2 {
+    font-size: 50px;
+    text-align: center;
+    list-style: none;
+}
+
+.inicio{
+    padding: 20px;
