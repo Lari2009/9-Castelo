@@ -31,7 +31,7 @@ header {
 .listas2 {
     font-size: 50px;
     text-align: center;
-    list-style: initial;
+    list-style: none;
 }
 
 .inicio{
