@@ -11,7 +11,7 @@ body {
 header {
     padding: 20px;
     background-color: rgb(16, 19, 16);
-    border: 5px solid;
+    border: 15px solid;
     font-size: 35px;
     color: rgb(27, 27, 19);
 }
