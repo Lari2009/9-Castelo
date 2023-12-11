@@ -3,7 +3,7 @@ body {
 }
 #titulo {
     font-size: 95px;
-    text-align: low;
+    text-align: calc();
     color: rgb(146, 5, 240);
 
 
