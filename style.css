@@ -10,16 +10,16 @@ body {
 }
 header {
     padding: 20px;
-    background-color: rgb(100, 194, 112);
+    background-color: rgb(16, 19, 16);
     border: 5px solid;
     font-size: 35px;
-    color: rgb(185, 202, 32);
+    color: rgb(20, 20, 12);
 }
 
 .texto {
     font-size: 50px;
     text-align: justify;
-    color: rgb(48, 50, 161),0,0);
+    color: rgb(13, 13, 27),0,0);
 
 }
 .listas1 {
